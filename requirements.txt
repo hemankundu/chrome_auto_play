@@ -27,7 +27,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 jplephem==2.14
 kiwisolver==1.1.0
-lxml==4.5.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mss==5.0.0
