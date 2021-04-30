@@ -63,6 +63,6 @@ six==1.14.0
 skyfield==1.18
 tornado==6.0.4
 unicodecsv==0.14.1
-urllib3==1.25.7
+urllib3==1.25.8
 webdavclient2==0.1.1
 Werkzeug==1.0.1
