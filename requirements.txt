@@ -36,7 +36,7 @@ numpy==1.18.1
 olefile==0.46
 orderedmultidict==1.0.1
 OWSLib==0.19.2
-paramiko==2.7.1
+paramiko==2.10.1
 Pillow==5.4.1
 property-cached==1.6.4
 PyAutoGUI==0.9.48
